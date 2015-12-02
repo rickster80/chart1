@@ -1,0 +1,24 @@
+{
+  "name": "chartapp",
+  "description": "app using require and chartjs",
+  "main": "index.js",
+  "authors": [
+    "ricky <ricky@liftshare.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Chart.js": "chartjs#~1.0.2",
+    "jquery": "~2.1.4",
+    "requirejs": "~2.1.22",
+    "underscore": "~1.8.3"
+  }
+}
